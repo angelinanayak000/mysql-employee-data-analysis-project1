@@ -42,8 +42,6 @@ This project explores and analyzes employee data using SQL queries. It includes 
 
 
 **Presentation:**
-
-* [Link to your presentation slides here] (e.g., Google Slides link, PowerPoint link)
-
+<a href="[your_presentation_link_here](https://github.com/angelinanayak000/mysql-employee-data-analysis-project1/blob/main/SQL%20DATA%20ANALYSIS%20PROJECT%201.pdf)">Project Presentation</a>
 
 
