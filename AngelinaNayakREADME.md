@@ -43,6 +43,6 @@ This project explores and analyzes employee data using SQL queries. It includes 
 
 
 **Presentation:**
-<a href=(https://github.com/angelinanayak000/mysql-employee-data-analysis-project1/blob/main/SQL%20DATA%20ANALYSIS%20PROJECT%201.pdf)>Project Presentation</a>
+<a href="https://github.com/angelinanayak000/mysql-employee-data-analysis-project1/blob/main/SQL%20DATA%20ANALYSIS%20PROJECT%201.pdf">Project Presentation</a>
 
 
