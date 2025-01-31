@@ -38,10 +38,11 @@ This project explores and analyzes employee data using SQL queries. It includes 
    - **Output:** ![image](https://github.com/user-attachments/assets/22e776d6-2faf-49ed-a15c-0565aa615a6f)
 
 10. **Find the employees who have served the longest in the company.**
-   - **Output:** ![image](https://github.com/user-attachments/assets/f27a5c38-b170-4231-b91e-21d43a3e226c)
+   - **Output:**
+   ![image](https://github.com/user-attachments/assets/f27a5c38-b170-4231-b91e-21d43a3e226c)
 
 
 **Presentation:**
-<a href=[your_presentation_link_here](https://github.com/angelinanayak000/mysql-employee-data-analysis-project1/blob/main/SQL%20DATA%20ANALYSIS%20PROJECT%201.pdf)>Project Presentation</a>
+<a href=(https://github.com/angelinanayak000/mysql-employee-data-analysis-project1/blob/main/SQL%20DATA%20ANALYSIS%20PROJECT%201.pdf)>Project Presentation</a>
 
 
